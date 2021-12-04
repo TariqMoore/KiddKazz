@@ -1,8 +1,47 @@
-- 👋 Hi, my name is Tariq Moore! Currently 21 and I'm studying software development in college.
-- 👀 I’m interested in music production and programming. Especially programming in Java.
-- 🌱 I’m an aspiring developer learning Java, C#, HTML/CSS, and Javascript through school/personal study.
-- 💞️ I’m looking to collaborate on anything Java, videogame, and music related!
-- 📫 You can get in contact with me by shooting an email my way @ tariqmoor3@gmail.com, or look find me on Linkedin https://www.linkedin.com/in/tariq-moore-3a1b8b1a9, 
+<a href="">
+# Hello Everyone!
+
+**Hey It's [Tariq](https://www.github.com/KiddKazz)!**
+-----------------------------------------------
+
+<br>
+
+Frontend Developer, Songwriter, Future Indie Game Maker
+
+<br>
+
+## Skills Include
+---
+* HTML5 - (2 years)
+* CSS3 - (2 years)
+* JavaScript - (1 year)
+* Java - (2 years)
+* Python - (<1 year)
+* Soon C#...
+
+I’m looking to collaborate on anything Programming, Game Design, and Music related!
+<br>
+
+<br>
+
+
+## Software
+---
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<br>
+
+<br>
+
+## Contacts
+---
+tariqmoor3@gmail.com 
+ ----
+[Twitter](https://www.twitter.com/kazzakus)
+ ---
+[Linkedin](www.linkedin.com/in/tariq-moore)
+ ---
+
 
 <!---
 KiddKazz/KiddKazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
