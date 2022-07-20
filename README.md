@@ -1,12 +1,11 @@
 <a href="">
-# Hello Everyone!
 
 **Hey It's [Tariq](https://www.github.com/KiddKazz)!**
 -----------------------------------------------
 
 <br>
 
-Frontend Developer, Songwriter, Future Indie Game Maker
+Frontend Developer, Guitarist, Future Indie Game Maker
 
 <br>
 
@@ -14,12 +13,15 @@ Frontend Developer, Songwriter, Future Indie Game Maker
 ---
 * HTML5 - (2 years)
 * CSS3 - (2 years)
+* Bootstrap5 - (1 year)
 * JavaScript - (1 year)
+* jQuery - (<1 year) 
+* Figma Wireframing
 * Java - (2 years)
 * Python - (<1 year)
 * Soon C#...
 
-I’m looking to collaborate on anything Programming, Game Design, and Music related!
+I’m looking to work for a company who values collaboration and growth opportunities.
 <br>
 
 <br>
@@ -35,7 +37,7 @@ I’m looking to collaborate on anything Programming, Game Design, and Music rel
 
 ## Contacts
 ---
-tariqmoor3@gmail.com 
+[Email](tariqmoor3@gmail.com)
  ----
 [Twitter](https://www.twitter.com/kazzakus)
  ---
