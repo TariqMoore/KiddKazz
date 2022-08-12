@@ -14,9 +14,9 @@ Frontend Developer, Guitarist, Future Indie Game Maker
 * HTML5 - (2 years)
 * CSS3 - (2 years)
 * Bootstrap5 - (1 year)
-* JavaScript - (1 year)
+* JavaScript - (2 year)
 * jQuery - (<1 year) 
-* Figma Wireframing
+* Figma 
 * Java - (2 years)
 * Python - (<1 year)
 * Soon C#...
