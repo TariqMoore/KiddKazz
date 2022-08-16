@@ -1,6 +1,6 @@
 <a href="">
 
-**Hey It's [Tariq](https://www.github.com/KiddKazz)!**
+**Hey it's [Tariq](https://www.github.com/KiddKazz)!**
 -----------------------------------------------
 
 <br>
