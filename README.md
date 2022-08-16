@@ -16,7 +16,7 @@ Frontend Developer, Guitarist, Future Indie Game Maker
 * Bootstrap5 - (1 year)
 * JavaScript - (2 year)
 * jQuery - (<1 year) 
-* C# - (<1 yearl
+* C# - (<1 year)
 * Figma 
 
 A young passionate frontend developer to work for a company who values collaboration, growth opportunities, and a decent worklife balance!
