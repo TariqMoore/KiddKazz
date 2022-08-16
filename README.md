@@ -21,7 +21,7 @@ Frontend Developer, Guitarist, Future Indie Game Maker
 * Python - (<1 year)
 * Soon C#...
 
-I’m looking to work for a company who values collaboration and growth opportunities.
+I’m looking to work for a company who values collaboration, growth opportunities, and a decent worklife balance!
 <br>
 
 <br>
