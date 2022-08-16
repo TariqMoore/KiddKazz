@@ -10,7 +10,7 @@ Frontend Developer, Guitarist, Future Indie Game Maker
 <br>
 
 ## Skills Include
----
+
 * HTML5 - (2 years)
 * CSS3 - (2 years)
 * Bootstrap5 - (1 year)
@@ -28,7 +28,7 @@ A young passionate frontend developer to work for a company who values collabora
 ## Software
 ---
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
+<img align="left" alt="Figma" width="26px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <br>
 
 <br>
