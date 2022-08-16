@@ -37,11 +37,11 @@ I’m looking to work for a company who values collaboration, growth opportuniti
 
 ## Contacts
 ---
-[Email](tariqmoor3@gmail.com)
+[Email](https://www.tariqmoor3@gmail.com)
  ----
 [Twitter](https://www.twitter.com/kazzakus)
  ---
-[Linkedin](www.linkedin.com/in/tariq-moore)
+[Linkedin](https://www.linkedin.com/in/tariq-moore/)
  ---
 
 
