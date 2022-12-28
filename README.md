@@ -13,11 +13,11 @@ Frontend Developer, Guitarist, Future Indie Game Maker
 
 * HTML5 - (2 years)
 * CSS3 - (2 years)
-* Bootstrap5 - (1 year)
-* JavaScript - (2 year)
-* jQuery - (<1 year) 
+* Bootstrap5 - (2 years)
+* JavaScript - (2 years)
+* jQuery - (2 years) 
 * C# - (<1 year)
-* Figma 
+* Figma - (2 years)
 
 A young passionate frontend developer to work for a company who values collaboration, growth opportunities, and a decent worklife balance!
 <br>
