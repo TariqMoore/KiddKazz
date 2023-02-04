@@ -11,8 +11,8 @@ Frontend Developer, Guitarist, Future Indie Game Maker
 
 ## Skills Include
 
-* HTML5 - (2 years)
-* CSS3 - (2 years)
+* HTML5 - (3 years)
+* CSS3 - (3 years)
 * Bootstrap5 - (2 years)
 * JavaScript - (2 years)
 * jQuery - (2 years) 
