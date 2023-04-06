@@ -1,6 +1,6 @@
 <a href="">
 
-**Hey it's [Tariq](https://www.linkedin.com/in/tariq-moore/]!**
+**Hey it's [Tariq](https://www.linkedin.com/in/tariq-moore/)!**
 -----------------------------------------------
 
 <br>
